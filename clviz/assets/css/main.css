@@ -65,7 +65,7 @@ hr.small {
 }
 
 .header-navbar-logo {
-   background: url(/assets/img/logo_light.png) no-repeat;
+   background: url(/assets/img/seel.png) no-repeat;
    cursor: pointer;
    float: left;
    height: 60px;
@@ -390,11 +390,11 @@ hr.small {
 }
 
 .header-pcb {
-    background-image: url(../img/pcbeautiful.png);
+    background-image: url(../img/illuminati.png);
 }
 
 .header-bg {
-    background: url(../img/ocp_wallpaper_dark_4k_copy.png) repeat 0 0 scroll;
+    background: url(../img/640.png) repeat 0 0 scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -575,7 +575,7 @@ hr.small {
 
 /* Register */
 .Presentations {
-    background-color: #785098;
+    background-color: #5097727;
     color: #fff;
     overflow: hidden;
     padding: 80px 0;
